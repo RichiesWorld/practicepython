@@ -1,2 +1,2 @@
 # practicepython
-We are going to add basics of python programming and its tools
+Repository to understand basics of python programming and its tools
